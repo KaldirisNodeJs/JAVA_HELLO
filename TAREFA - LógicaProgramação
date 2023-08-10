@@ -1,0 +1,38 @@
+Exercício de Lógica de programação
+
+Passos do Acordar para ir ao trabalho:
+
+1 -  Ao despertar, bater o olho no relógio e ver as horas.
+    ? Tenho mais tempo para dormir ?   
+      Sim... Continuar na cama.
+      Não... Levantar o vagabundo para o trabalho.
+
+2 - Cuidado ao sair da cama para não escorregar no tapete
+3 - Tirar a roupa/pijama e já deixar no lugar para o proximo uso
+4 - Ir ao banheiro e ligar o chuveiro.
+    ? Tem agua ?
+    SIM...  
+           ? Está Quente ?
+               SIM... Tomar o Banho.
+               NÃO... Fechar o chuveiro.            
+      
+    NAO... Fechar o chuveiro se ainda estiver aberto.
+
+5 - Escovar os dentes e demais cuidados com o rosto... 
+
+6 - Voltar para o quarto e separar a roupa para o trabalho.
+
+7 - Vestir a roupa
+
+8 - Preparar o Lanche
+
+9 - Chekin das coisas antes de sair de casa.
+    Gas Fechado, Janelas Fechadas, Luzes Desligadas, Documentos, Celular, Óculos, Lanches.
+
+* COMO IR PARA O TRABALHO ?
+10 - Se chovendo.  Ir de carro.
+11 - Ir de moto caso não esteja chovendo.
+
+
+*  Cada passo desse pode ser minuciosamente detalhado, com a sequencia ideal para ser executada as tarefas.
+
